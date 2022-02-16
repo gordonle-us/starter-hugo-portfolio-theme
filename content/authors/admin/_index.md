@@ -1,6 +1,7 @@
 ---
 title: Gordon Le
 role: ""
+avatar_filename: profhs.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
